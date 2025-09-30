@@ -36,7 +36,7 @@ public class Main {
                     // Contoh Polymorphism
                     hewanService.tambahHewan(new Mamalia("Singa", "Karnivora", "Savanna", 8, true));
                     hewanService.tambahHewan(new Burung("Merpati", "Aves", "Kota", 2, true));
-                    System.out.println("\n>> Contoh suara hewan:");
+                    System.out.println("\n>> suara hewan:");
                     for (Hewan h : hewanService.getDaftarHewan()) {
                         if (h instanceof SuaraHewanJava) {
                             ((SuaraHewanJava) h).bersuara();

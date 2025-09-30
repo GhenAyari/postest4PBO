@@ -67,7 +67,7 @@ public class HewanService {
     // Overloading: versi langsung dengan parameter
     public void tambahHewan(Hewan hewan) {
         daftarHewan.add(hewan);
-        System.out.println("Hewan berhasil ditambahkan lewat parameter!");
+        System.out.println("");
     }
 
     public void lihatHewan() {
