@@ -370,3 +370,10 @@ lihatHewan() → menampilkan semua daftar hewan.<br>
 ubahHewan() → mengubah data hewan berdasarkan index.<br>
 hapusHewan() → menghapus hewan dari daftar.<br>
 Di sinilah OOP Encapsulation, karena semua logika CRUD data hewan dikumpulkan di satu class service.<br>
+
+## Output
+<img width="473" height="671" alt="image" src="https://github.com/user-attachments/assets/0261fa5d-77c8-4ca9-894e-8c32801cb1e3" />
+<br>
+untuk output dan menu sama saja seperti sebelumnya tapi ada tambahan yaitu menu 5 Suara Hewan, untuk menampilkan bagiamana suara hewan dan
+penerapan abstraction sekaligus polymorphism.
+
